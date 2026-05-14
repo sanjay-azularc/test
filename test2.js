@@ -1,5 +1,2 @@
 export const AGE = 10;
-
-
-
-export const ANEM = "Titu";
+export const NAME = "Titu";
