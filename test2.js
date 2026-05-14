@@ -1,2 +1,2 @@
-const  age =  10;
-console.log(age)
+const age = 10;
+console.log(age);
