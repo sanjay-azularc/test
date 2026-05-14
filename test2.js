@@ -1,3 +1,1 @@
-const age = 10;
-
-console.log(age);
+export const AGE = 10;
